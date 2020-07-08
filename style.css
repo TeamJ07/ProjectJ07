@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url('../img/image2.png');
+  background-image: url('..image2.png');
   background-size: cover;
   color: white;
   text-align: center;
@@ -183,7 +183,7 @@ header {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
-  background-image: url('../img/bawah.png');
+  background-image: url('..bawah.png');
 }
 
 .message {
